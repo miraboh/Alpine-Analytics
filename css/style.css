@@ -227,7 +227,7 @@ header ul.nav li ul li a {
 
 .navbar .nav a:hover {
 	background:none;
-	color: #CC2424 !important;
+	color: #1f39c0 !important;
 }
 
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
