@@ -458,7 +458,7 @@ border: 1px solid #2FADDE;
 background:#2FADDE
 }
 section.callaction {
-	background: #CC2424;
+	background: #1f39c0;
 	padding:50px 0 0 0;
 	color: #fff;
 	position: relative;
@@ -561,7 +561,8 @@ color:#428bca
 ==================================== */
 
 #inner-headline{
-	background: #C22731;
+	/* background: #3F51B5; */
+	background: #1f39c0;
 	position:relative;
 	margin:0;
 	padding:0;
@@ -1222,7 +1223,7 @@ background: #FFFFFF;
 	padding-top: 9px;
 }
 .pricing-box-item.activeItem .pricing-heading h3 {
-    color: #E6444E;
+    color: #4d2427;
 }
 
 .pricing-box-item .pricing-heading h3 strong {
@@ -1531,7 +1532,6 @@ article img.pull-right, article .align-right{
 	float:right;
 	margin:5px 0 15px 15px;
 }
- ============================= */
 
 .clear-marginbot{
 	margin-bottom:0;
@@ -1781,7 +1781,8 @@ color:#fff;
     position: absolute;
     width: 118%;
     height: 100%;
-    background-color: #E6444E;
+	/* background-color: #1f39c0; */
+    background-color: #3F51B5;
     -ms-transform: rotate(20deg);
     -webkit-transform: rotate(20deg);
     transform: rotate(20deg);
